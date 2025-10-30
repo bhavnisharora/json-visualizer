@@ -2,7 +2,7 @@
 
 An interactive web application that visualizes JSON data as a hierarchical tree structure with search and highlighting functionality. Built with React, React Flow, and Tailwind CSS.
 
-## 🌟 Features
+## Features
 
 ### Core Functionality
 - **JSON Input & Validation** - Paste or type JSON with real-time validation
